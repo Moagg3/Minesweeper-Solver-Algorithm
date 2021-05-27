@@ -1,1 +1,1 @@
-dd
+Two Algorithms for solving mine sweeper game where we are discovering all the sqaures which contain bomb. 2nd algorithm is more effciient as it uses probability to find the locations which contain bomb.
